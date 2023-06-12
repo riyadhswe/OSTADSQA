@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author riyad
+ *
+ */
+module SQAJava {
+}
